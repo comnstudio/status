@@ -76,21 +76,21 @@
     "url": "https://help.comn.click/",
     "icon": "https://icons.duckduckgo.com/ip3/help.comn.click.ico",
     "slug": "help-site",
-    "status": "down",
-    "uptime": "91.83%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "91.83%",
-    "uptimeMonth": "91.83%",
-    "uptimeYear": "91.83%",
-    "time": 882,
-    "timeDay": 901,
-    "timeWeek": 882,
-    "timeMonth": 882,
-    "timeYear": 882,
+    "status": "up",
+    "uptime": "88.03%",
+    "uptimeDay": "84.91%",
+    "uptimeWeek": "88.03%",
+    "uptimeMonth": "88.03%",
+    "uptimeYear": "88.03%",
+    "time": 892,
+    "timeDay": 932,
+    "timeWeek": 892,
+    "timeMonth": 892,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2026-10-22": 212,
       "2026-10-23": 185,
-      "2026-10-25": 5
+      "2026-10-25": 217
     }
   },
   {
@@ -116,21 +116,21 @@
     "url": "https://bot.comn.click/health",
     "icon": "https://icons.duckduckgo.com/ip3/bot.comn.click.ico",
     "slug": "telegram-bot",
-    "status": "down",
-    "uptime": "60.57%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "60.57%",
-    "uptimeMonth": "60.57%",
-    "uptimeYear": "60.57%",
-    "time": 677,
-    "timeDay": 685,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "status": "up",
+    "uptime": "58.06%",
+    "uptimeDay": "85.25%",
+    "uptimeWeek": "58.06%",
+    "uptimeMonth": "58.06%",
+    "uptimeYear": "58.06%",
+    "time": 673,
+    "timeDay": 668,
+    "timeWeek": 673,
+    "timeMonth": 673,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2026-10-23": 1236,
       "2026-10-22": 703,
-      "2026-10-25": 0
+      "2026-10-25": 212
     }
   }
 ]
